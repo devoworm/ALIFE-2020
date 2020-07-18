@@ -14,4 +14,4 @@ Alicea, B. (2020). [A (representational) introduction to CGS](https://www.youtub
 
 ### Links to Contextual Geometric Sturctures (CGS) Software:
 
-Blender simulation of CGS kernels  [github](https://github.com/Orthogonal-Research-Lab/CGS/blob/master/cgs-oop/GSOC.md)
+Blender simulation of CGS kernels  [Github](https://github.com/Orthogonal-Research-Lab/CGS/blob/master/cgs-oop/GSOC.md)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/devoworm/ALIFE-2020/blob/master/Media/Slide1.png"><BR>
+  <img src="https://github.com/devoworm/ALIFE-2020/blob/master/Media/Slide--1.png"><BR>
 </p>
 <p align="center">
   <img src="https://github.com/devoworm/ALIFE-2020/blob/master/Media/Slide2.png"><BR>
@@ -44,5 +44,5 @@
   <img src="https://github.com/devoworm/ALIFE-2020/blob/master/Media/Slide15.png"><BR>
 </p>
 <p align="center">
-  <img src="https://github.com/devoworm/ALIFE-2020/blob/master/Media/Slide16.png"><BR>
+  <img src="https://github.com/devoworm/ALIFE-2020/blob/master/Media/Slide--16.png"><BR>
 </p>
